@@ -51,6 +51,10 @@
     
     
     
+        
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+    
     
 <script src="https://unpkg.com/pace-js@1.2.4/pace.min.js"></script>
 
@@ -87,7 +91,7 @@
             </div>
             
                 <h2 id="subtitle-wrap">
-                    <a href="/" id="subtitle">満 身 創 痍</a>
+                    <a href="/" id="subtitle">NOT FOUND</a>
                 </h2>
             
         </div>
@@ -97,34 +101,34 @@
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/">首页</a>
+                        <a class="main-nav-link" href="/">Home</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/archives">归档</a>
+                        <a class="main-nav-link" href="/archives">Archives</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/about">关于</a>
+                        <a class="main-nav-link" href="/about">About</a>
                     </span>
                 
                     <span class="main-nav-link-wrap">
                         <span class="main-nav-icon"></span>
-                        <a class="main-nav-link" href="/friend">友链</a>
+                        <a class="main-nav-link" href="/friend">Friend</a>
                     </span>
                 
             </nav>
             <nav id="sub-nav">
                 
                     <a id="nav-rss-link" class="nav-icon" href="/atom.xml"
-                       title="RSS 订阅"></a>
+                       title="RSS Feed"></a>
                 
                 
             </nav>
             <div id="search-form-wrap">
-                <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://huajikl.github.io"></form>
+                <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://huajikl.github.io"></form>
             </div>
         </div>
     </div>
@@ -160,10 +164,41 @@
 
 
 
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: '页面 ID', // 可选。默认为 location.href
+  owner: 'huajikl',
+  repo: 'huajikl.github.io',
+  oauth: {
+    client_id: '5b20f8ee25689e545894',
+    client_secret: '*****22d7c901t',
+  },
+})
+gitment.render('container')
+</script>
 
 
 
 
+    
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+    <script>
+        const gitalk = new Gitalk({
+            clientID: '5b20f8ee25689e545894',
+            clientSecret: '&lt;*****22d7c901&gt;',
+            repo: 'huajikl.github.io',
+            owner: 'huajikl',
+            admin: huajikl,
+            id: location.pathname,      // Ensure uniqueness and length less than 50
+            distractionFreeMode: false  // Facebook-like distraction free mode
+        })
+
+        gitalk.render('comments')
+    </script>
 
 
 
