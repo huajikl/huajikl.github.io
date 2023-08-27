@@ -52,10 +52,6 @@
     
     
     
-        
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-
-    
     
 <script src="https://unpkg.com/pace-js@1.2.4/pace.min.js"></script>
 
@@ -447,26 +443,25 @@
 
 
 
-    
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '5b20f8ee25689e545894',
-            clientSecret: '&lt;*****d31b69c0&gt;',
-            repo: 'huajikl.github.io',
-            owner: 'huajikl',
-            admin: huajikl,
-            id: location.pathname,      // Ensure uniqueness and length less than 50
-            distractionFreeMode: false  // Facebook-like distraction free mode
-        })
 
-        gitalk.render('comments')
+
+
+    <script src="https://giscus.app/client.js"
+        data-repo='huajikl.github.io'
+        data-repo-id='R_kgDOKLAt1A'
+        data-category='General'
+        data-category-id='blog-comments'
+        data-mapping='mapping'
+        data-strict='0'
+        data-reactions-enabled='1'
+        data-emit-metadata='0'
+        data-input-position='bottom'
+        data-theme='preferred_color_scheme'
+        data-lang='zh-CN'
+        crossorigin="anonymous"
+        async>
     </script>
-
-
-
-
 
 
 

@@ -56,10 +56,6 @@
     
     
     
-        
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-
-    
     
 <script src="https://unpkg.com/pace-js@1.2.4/pace.min.js"></script>
 
@@ -194,7 +190,7 @@
             
         </div>
         <footer class="article-footer">
-            <a data-url="https://huajikl.github.io/about/index.html" data-id="clls8eqit0000lgucfo3hb96x" data-title="关于"
+            <a data-url="https://huajikl.github.io/about/index.html" data-id="cllt5yufq0000mwuch055hby0" data-title="关于"
                class="article-share-link">分享</a>
             
             
@@ -216,9 +212,9 @@
 
 
 
-     <div id="comments" class="gtcomment"></div>
 
 
+     <div id="comments" class="gscomment giscus"></div>
 
 
 
@@ -457,26 +453,25 @@
 
 
 
-    
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '5b20f8ee25689e545894',
-            clientSecret: '&lt;*****d31b69c0&gt;',
-            repo: 'huajikl.github.io',
-            owner: 'huajikl',
-            admin: huajikl,
-            id: location.pathname,      // Ensure uniqueness and length less than 50
-            distractionFreeMode: false  // Facebook-like distraction free mode
-        })
 
-        gitalk.render('comments')
+
+
+    <script src="https://giscus.app/client.js"
+        data-repo='huajikl.github.io'
+        data-repo-id='R_kgDOKLAt1A'
+        data-category='General'
+        data-category-id='blog-comments'
+        data-mapping='mapping'
+        data-strict='0'
+        data-reactions-enabled='1'
+        data-emit-metadata='0'
+        data-input-position='bottom'
+        data-theme='preferred_color_scheme'
+        data-lang='zh-CN'
+        crossorigin="anonymous"
+        async>
     </script>
-
-
-
-
 
 
 
