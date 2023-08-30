@@ -60,21 +60,6 @@
   opacity: 0;
   visibility: hidden;
 }
-@-moz-keyframes rotate-all {
-  100% {
-    transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes rotate-all {
-  100% {
-    transform: rotate(360deg);
-  }
-}
-@-o-keyframes rotate-all {
-  100% {
-    transform: rotate(360deg);
-  }
-}
 @keyframes rotate-all {
   100% {
     transform: rotate(360deg);
