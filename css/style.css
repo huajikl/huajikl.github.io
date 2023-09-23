@@ -2,7 +2,7 @@
   --red-0: #f00;
   --red-1: #ff5252;
   --red-2: #ff7c7c;
-  --red-3: #0f59a4;
+  --red-3: #ffafaf;
   --red-4: #ffd0d0;
   --red-5: #ffe4e4;
   --red-5-5: #ffecec;
@@ -1554,30 +1554,6 @@ a.article-title:hover {
   border-top-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-.tips {
-  padding-left: 10px;
-  background-color: rgba(52,152,219,0.3);
-  border-left: 4px solid #3498db;
-  color: #217bb8;
-}
-.success {
-  padding-left: 10px;
-  background-color: rgba(46,204,113,0.3);
-  border-left: 4px solid #2ecc71;
-  color: #25a35a;
-}
-.warning {
-  padding-left: 10px;
-  background-color: rgba(241,196,15,0.3);
-  border-left: 4px solid #f1c40f;
-  color: #c29d0b;
-}
-.danger {
-  padding-left: 10px;
-  background-color: rgba(231,76,60,0.3);
-  border-left: 4px solid #e74c3c;
-  color: #cf2b1a;
-}
 #comments {
   background: var(--color-wrap);
   padding: 20px;
@@ -1886,6 +1862,7 @@ a.article-title:hover {
   line-height: 1.8em;
   font-size: 0.85em;
   width: 100%;
+  margin: 0;
 }
 #footer-info div {
   margin: 5px 0;
@@ -2899,4 +2876,28 @@ pre .javascript .function {
   right: 100%;
   width: 100%;
   height: 2px;
+}
+.tips {
+  padding-left: 10px;
+  background-color: rgba(52,152,219,0.3);
+  border-left: 4px solid #3498db;
+  color: #217bb8;
+}
+.success {
+  padding-left: 10px;
+  background-color: rgba(46,204,113,0.3);
+  border-left: 4px solid #2ecc71;
+  color: #25a35a;
+}
+.warning {
+  padding-left: 10px;
+  background-color: rgba(241,196,15,0.3);
+  border-left: 4px solid #f1c40f;
+  color: #c29d0b;
+}
+.danger {
+  padding-left: 10px;
+  background-color: rgba(231,76,60,0.3);
+  border-left: 4px solid #e74c3c;
+  color: #cf2b1a;
 }
