@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huajikl</title>
+  <icon>https://huajikl.github.io/icon.png</icon>
+  
+  <link href="https://huajikl.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://huajikl.github.io/"/>
+  <updated>2023-09-24T07:51:41.230Z</updated>
+  <id>https://huajikl.github.io/</id>
+  
+  <author>
+    <name>huajikl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>H27V22屏幕设置参数</title>
+    <link href="https://huajikl.github.io/2023/09/02/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"/>
+    <id>https://huajikl.github.io/2023/09/02/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/</id>
+    <published>2023-09-02T04:57:39.000Z</published>
+    <updated>2023-09-24T07:51:41.230Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;出自&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>资源整理</title>
+    <link href="https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/"/>
+    <id>https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/</id>
+    <published>2023-08-29T06:27:36.000Z</published>
+    <updated>2023-09-24T07:51:24.405Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;图片&lt;/h1&gt;
+&lt;details open&gt;
+&lt;summary&gt;&lt;span class=&quot;pre-summary&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;壁纸&lt;/strong&gt;&lt;/summary&gt;&lt;ul class=&quot;lvl-1&quot;&gt;
+&lt;li</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://huajikl.github.io/2023/08/26/test/"/>
+    <id>https://huajikl.github.io/2023/08/26/test/</id>
+    <published>2023-08-26T07:05:06.000Z</published>
+    <updated>2023-09-23T10:44:13.406Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何搭建alist</title>
+    <link href="https://huajikl.github.io/2023/08/25/alist/"/>
+    <id>https://huajikl.github.io/2023/08/25/alist/</id>
+    <published>2023-08-25T15:33:59.000Z</published>
+    <updated>2023-09-24T07:54:49.482Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;如何挂载非常简单&lt;/p&gt;
+&lt;h1&gt;准备工作&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.replit.com&quot;&gt;replit&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://db4free.net/&quot;&gt;db4free&lt;/a&gt;&lt;br /&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://huajikl.github.io/2013/12/24/hello-world/"/>
+    <id>https://huajikl.github.io/2013/12/24/hello-world/</id>
+    <published>2013-12-24T09:49:32.000Z</published>
+    <updated>2023-08-26T07:05:34.253Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://zespia.tw/hexo&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
