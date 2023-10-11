@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>huajikl</title>
   <icon>https://huajikl.github.io/icon.png</icon>
-  
+  <subtitle>huajikl</subtitle>
   <link href="https://huajikl.github.io/atom.xml" rel="self"/>
   
   <link href="https://huajikl.github.io/"/>
-  <updated>2023-10-04T14:33:12.386Z</updated>
+  <updated>2023-10-11T15:53:51.000Z</updated>
   <id>https://huajikl.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>obsidian</title>
+    <title>obsidian插件</title>
     <link href="https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/"/>
     <id>https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/</id>
     <published>2023-10-04T14:04:20.000Z</published>
-    <updated>2023-10-04T14:33:12.386Z</updated>
+    <updated>2023-10-11T15:53:51.000Z</updated>
     
     
       
@@ -43,11 +43,11 @@
   </entry>
   
   <entry>
-    <title>osbidian</title>
+    <title>osbidian主题</title>
     <link href="https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/"/>
     <id>https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/</id>
     <published>2023-10-04T13:56:51.000Z</published>
-    <updated>2023-10-04T14:16:35.815Z</updated>
+    <updated>2023-10-11T15:53:10.356Z</updated>
     
     
       
@@ -55,10 +55,9 @@
         
         
     <summary type="html">&lt;h1&gt;主题&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;一个笔记软件主题随便了，用默认的都行。&lt;/strong&gt;&lt;br /&gt;
-默认觉得不好看？那就下几个主题让自己觉得好看下面有几个推荐的主题&lt;/p&gt;
+&lt;p class=&quot;fireman-p-indent&quot; &gt;&lt;strong&gt;一个笔记软件主题随便了，用默认的都行。&lt;/strong&gt;&lt;/p&gt;
 &lt;h1&gt;GitHub Theme&lt;/h1&gt;
-&lt;p</summary>
+&lt;p class=&quot;fireman-p-indent&quot;</summary>
         
       
     
@@ -70,38 +69,11 @@
   </entry>
   
   <entry>
-    <title>歌曲</title>
-    <link href="https://huajikl.github.io/2023/10/01/%E6%AD%8C%E6%9B%B2/"/>
-    <id>https://huajikl.github.io/2023/10/01/%E6%AD%8C%E6%9B%B2/</id>
-    <published>2023-10-01T12:06:48.000Z</published>
-    <updated>2023-10-04T13:33:08.421Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;鬼泣&lt;/h1&gt;
-&lt;p&gt;Subhuman 鬼泣 5 但丁的歌曲&lt;br /&gt;
-Devil Trigger 鬼泣 5 尼禄的歌曲&lt;br /&gt;
-Bury the Light 鬼泣 5 维吉尔的歌曲&lt;br /&gt;
-Devils NeverCry 鬼泣 3</summary>
-        
-      
-    
-    
-    
-    
-    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
     <title>游戏清单</title>
     <link href="https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
     <id>https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
     <published>2023-09-26T05:33:12.000Z</published>
-    <updated>2023-10-04T13:54:19.261Z</updated>
+    <updated>2023-10-09T14:37:01.830Z</updated>
     
     
       
@@ -151,7 +123,7 @@ Devils NeverCry 鬼泣 3</summary>
     <link href="https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/"/>
     <id>https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/</id>
     <published>2023-08-29T06:27:36.000Z</published>
-    <updated>2023-10-04T13:38:51.744Z</updated>
+    <updated>2023-10-11T15:56:17.213Z</updated>
     
     
       
@@ -177,7 +149,7 @@ Devils NeverCry 鬼泣 3</summary>
     <link href="https://huajikl.github.io/2023/08/26/test/"/>
     <id>https://huajikl.github.io/2023/08/26/test/</id>
     <published>2023-08-26T07:05:06.000Z</published>
-    <updated>2023-10-02T13:02:16.425Z</updated>
+    <updated>2023-10-04T16:38:09.996Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
@@ -192,7 +164,7 @@ Devils NeverCry 鬼泣 3</summary>
     <link href="https://huajikl.github.io/2023/08/25/alist/"/>
     <id>https://huajikl.github.io/2023/08/25/alist/</id>
     <published>2023-08-25T15:33:59.000Z</published>
-    <updated>2023-10-02T13:50:44.068Z</updated>
+    <updated>2023-10-04T16:39:26.233Z</updated>
     
     
       
