@@ -6,7 +6,7 @@
   <link href="https://huajikl.github.io/atom.xml" rel="self"/>
   
   <link href="https://huajikl.github.io/"/>
-  <updated>2023-10-11T15:53:51.000Z</updated>
+  <updated>2023-11-08T16:38:28.207Z</updated>
   <id>https://huajikl.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/"/>
     <id>https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/</id>
     <published>2023-10-04T14:04:20.000Z</published>
-    <updated>2023-10-11T15:53:51.000Z</updated>
+    <updated>2023-11-08T16:38:28.207Z</updated>
     
     
       
@@ -29,9 +29,9 @@
         
         
     <summary type="html">&lt;h1&gt;盘古 PanGu&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot; &gt;自动为中英文之间插入空格&lt;/p&gt;
 &lt;h1&gt;Editing Toolbar&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot;</summary>
+&lt;h1&gt;Floating toc&lt;/h1&gt;
+&lt;h1&gt;Easy</summary>
         
       
     
@@ -47,17 +47,18 @@
     <link href="https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/"/>
     <id>https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/</id>
     <published>2023-10-04T13:56:51.000Z</published>
-    <updated>2023-10-11T15:53:10.356Z</updated>
+    <updated>2023-11-08T16:38:19.907Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;主题&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot; &gt;&lt;strong&gt;一个笔记软件主题随便了，用默认的都行。&lt;/strong&gt;&lt;/p&gt;
-&lt;h1&gt;GitHub Theme&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot;</summary>
+    <summary type="html">&lt;h1&gt;GitHub Theme&lt;/h1&gt;
+&lt;p class=&quot;fireman-p-indent&quot; &gt;深色模式感觉比较可看有下面四个特征&lt;/p&gt;
+&lt;ul class=&quot;lvl-0&quot;&gt;
+&lt;li class=&quot;lvl-2&quot;&gt;看板的设计看起来像 GitHub 项目&lt;/li&gt;
+&lt;li</summary>
         
       
     
@@ -73,7 +74,7 @@
     <link href="https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
     <id>https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
     <published>2023-09-26T05:33:12.000Z</published>
-    <updated>2023-10-09T14:37:01.830Z</updated>
+    <updated>2023-11-08T15:49:12.074Z</updated>
     
     
       
@@ -100,16 +101,16 @@
     <link href="https://huajikl.github.io/2023/09/02/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"/>
     <id>https://huajikl.github.io/2023/09/02/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/</id>
     <published>2023-09-02T04:57:39.000Z</published>
-    <updated>2023-10-02T13:01:55.525Z</updated>
+    <updated>2023-11-08T16:37:55.718Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p class=&quot;fireman-p-indent&quot; &gt;出自&lt;a href=&quot;https://tieba.baidu.com/p/8122873554&quot;&gt;贴吧&lt;/a&gt;此处只是整理参数&lt;/p&gt;
+    <summary type="html">&lt;p class=&quot;fireman-p-indent&quot; &gt;&lt;a href=&quot;https://tieba.baidu.com/p/8122873554&quot;&gt;贴吧&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;A 卡设置参数&lt;/h1&gt;
-&lt;p</summary>
+&lt;p class=&quot;fireman-p-indent&quot; &gt;亮度</summary>
         
       
     
@@ -119,11 +120,11 @@
   </entry>
   
   <entry>
-    <title>资源整理</title>
-    <link href="https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/"/>
-    <id>https://huajikl.github.io/2023/08/29/%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86/</id>
+    <title>整理</title>
+    <link href="https://huajikl.github.io/2023/08/29/%E6%95%B4%E7%90%86/"/>
+    <id>https://huajikl.github.io/2023/08/29/%E6%95%B4%E7%90%86/</id>
     <published>2023-08-29T06:27:36.000Z</published>
-    <updated>2023-10-11T15:56:17.213Z</updated>
+    <updated>2023-11-08T16:38:37.846Z</updated>
     
     
       
@@ -160,11 +161,11 @@
   </entry>
   
   <entry>
-    <title>如何搭建alist</title>
+    <title>alist</title>
     <link href="https://huajikl.github.io/2023/08/25/alist/"/>
     <id>https://huajikl.github.io/2023/08/25/alist/</id>
     <published>2023-08-25T15:33:59.000Z</published>
-    <updated>2023-10-04T16:39:26.233Z</updated>
+    <updated>2023-11-08T16:39:31.349Z</updated>
     
     
       
