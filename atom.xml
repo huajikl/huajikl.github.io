@@ -6,7 +6,7 @@
   <link href="https://huajikl.github.io/atom.xml" rel="self"/>
   
   <link href="https://huajikl.github.io/"/>
-  <updated>2023-11-08T16:38:28.207Z</updated>
+  <updated>2023-12-10T08:52:00.212Z</updated>
   <id>https://huajikl.github.io/</id>
   
   <author>
@@ -17,21 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>alist美化</title>
+    <link href="https://huajikl.github.io/2023/12/03/alist%E7%BE%8E%E5%8C%96/"/>
+    <id>https://huajikl.github.io/2023/12/03/alist%E7%BE%8E%E5%8C%96/</id>
+    <published>2023-12-03T07:50:26.000Z</published>
+    <updated>2023-12-10T08:52:00.212Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;头部代码&quot;&gt;头部代码&lt;a class=&quot;header-anchor&quot; href=&quot;#头部代码&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Alist" scheme="https://huajikl.github.io/tags/Alist/"/>
+    
+    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>obsidian插件</title>
     <link href="https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/"/>
     <id>https://huajikl.github.io/2023/10/04/obsidian%E6%8F%92%E4%BB%B6/</id>
     <published>2023-10-04T14:04:20.000Z</published>
-    <updated>2023-11-08T16:38:28.207Z</updated>
+    <updated>2023-12-03T07:20:09.343Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;盘古 PanGu&lt;/h1&gt;
-&lt;h1&gt;Editing Toolbar&lt;/h1&gt;
-&lt;h1&gt;Floating toc&lt;/h1&gt;
-&lt;h1&gt;Easy</summary>
+    <summary type="html">&lt;h1 id=&quot;盘古-PANGU&quot;&gt;盘古 PanGu&lt;a class=&quot;header-anchor&quot; href=&quot;#盘古-PANGU&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;EDITING-TOOLBAR&quot;&gt;Editing Toolbar&lt;a</summary>
         
       
     
@@ -47,18 +71,15 @@
     <link href="https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/"/>
     <id>https://huajikl.github.io/2023/10/04/osbidian%E4%B8%BB%E9%A2%98/</id>
     <published>2023-10-04T13:56:51.000Z</published>
-    <updated>2023-11-08T16:38:19.907Z</updated>
+    <updated>2023-12-03T07:19:12.551Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;GitHub Theme&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot; &gt;深色模式感觉比较可看有下面四个特征&lt;/p&gt;
-&lt;ul class=&quot;lvl-0&quot;&gt;
-&lt;li class=&quot;lvl-2&quot;&gt;看板的设计看起来像 GitHub 项目&lt;/li&gt;
-&lt;li</summary>
+    <summary type="html">&lt;h1 id=&quot;GITHUB-THEME&quot;&gt;GitHub Theme&lt;a class=&quot;header-anchor&quot; href=&quot;#GITHUB-THEME&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p class=&quot;fireman-p-indent&quot;</summary>
         
       
     
@@ -74,7 +95,7 @@
     <link href="https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
     <id>https://huajikl.github.io/2023/09/26/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
     <published>2023-09-26T05:33:12.000Z</published>
-    <updated>2023-11-08T15:49:12.074Z</updated>
+    <updated>2023-12-10T06:45:22.270Z</updated>
     
     
       
@@ -109,8 +130,7 @@
         
         
     <summary type="html">&lt;p class=&quot;fireman-p-indent&quot; &gt;&lt;a href=&quot;https://tieba.baidu.com/p/8122873554&quot;&gt;贴吧&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;A 卡设置参数&lt;/h1&gt;
-&lt;p class=&quot;fireman-p-indent&quot; &gt;亮度</summary>
+&lt;h1 id=&quot;A-卡设置参数&quot;&gt;A 卡设置参数&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -124,17 +144,18 @@
     <link href="https://huajikl.github.io/2023/08/29/%E6%95%B4%E7%90%86/"/>
     <id>https://huajikl.github.io/2023/08/29/%E6%95%B4%E7%90%86/</id>
     <published>2023-08-29T06:27:36.000Z</published>
-    <updated>2023-11-08T16:38:37.846Z</updated>
+    <updated>2023-12-09T09:29:18.268Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;图片&lt;/h1&gt;
-&lt;details open&gt;
-&lt;summary&gt;&lt;span class=&quot;pre-summary&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;壁纸&lt;/strong&gt;&lt;/summary&gt;&lt;ul class=&quot;lvl-1&quot;&gt;
-&lt;li</summary>
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;ul class=&quot;lvl-0&quot;&gt;
+&lt;li class=&quot;lvl-2&quot;&gt;&lt;a href=&quot;#%E5%9B%BE%E7%89%87&quot;&gt;图片&lt;/a&gt;
+&lt;ul class=&quot;lvl-2&quot;&gt;
+&lt;li class=&quot;lvl-4&quot;&gt;&lt;a</summary>
         
       
     
@@ -161,26 +182,29 @@
   </entry>
   
   <entry>
-    <title>alist</title>
-    <link href="https://huajikl.github.io/2023/08/25/alist/"/>
-    <id>https://huajikl.github.io/2023/08/25/alist/</id>
+    <title>搭建alist</title>
+    <link href="https://huajikl.github.io/2023/08/25/%E6%90%AD%E5%BB%BAalist/"/>
+    <id>https://huajikl.github.io/2023/08/25/%E6%90%AD%E5%BB%BAalist/</id>
     <published>2023-08-25T15:33:59.000Z</published>
-    <updated>2023-11-08T16:39:31.349Z</updated>
+    <updated>2023-12-09T08:33:49.545Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p class=&quot;fireman-p-indent&quot; &gt;如何挂载非常简单&lt;/p&gt;
-&lt;h1&gt;准备工作&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.replit.com&quot;&gt;replit&lt;/a&gt;&lt;br /&gt;
-&lt;a</summary>
+    <summary type="html">&lt;p class=&quot;fireman-p-indent&quot; &gt;一眼乱写&lt;/p&gt;
+&lt;p class=&quot;fireman-p-indent&quot; &gt;如何白嫖非常简单&lt;/p&gt;
+&lt;h1 id=&quot;准备工作&quot;&gt;准备工作&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
     
     
+    
+    <category term="Alist" scheme="https://huajikl.github.io/tags/Alist/"/>
+    
+    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
