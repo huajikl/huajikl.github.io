@@ -2581,6 +2581,10 @@ pre .javascript .function {
   font-family: FontAwesome;
   content: "\f105";
 }
+a {
+  color: #ea4e4f;
+  text-decoration: none;
+}
 @media screen and (max-width: 959px) {
   #sidebar {
     display: none;
@@ -2900,4 +2904,21 @@ pre .javascript .function {
   background-color: rgba(231,76,60,0.3);
   border-left: 4px solid #e74c3c;
   color: #cf2b1a;
+}
+.toc ol {
+  list-style: none;
+}
+.toc ol li {
+  position: relative;
+  padding-left: 20px; /* You might need to adjust this value */
+}
+.toc ol li::before {
+  content: none;
+}
+.toc .toc-number {
+  display: none;
+}
+.toc .toc-link::before {
+  content: '•';
+  padding-right: 5px; /* 保留一些右边距以分隔点和文本 */
 }
