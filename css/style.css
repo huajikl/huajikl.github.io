@@ -2581,8 +2581,12 @@ pre .javascript .function {
   font-family: FontAwesome;
   content: "\f105";
 }
-a {
+.toc a {
   color: #ea4e4f;
+  text-decoration: none;
+}
+.toc a:hover {
+  color: #2ec3e7;
   text-decoration: none;
 }
 @media screen and (max-width: 959px) {
@@ -2917,8 +2921,4 @@ a {
 }
 .toc .toc-number {
   display: none;
-}
-.toc .toc-link::before {
-  content: '•';
-  padding-right: 5px; /* 保留一些右边距以分隔点和文本 */
 }
