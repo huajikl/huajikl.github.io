@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huajikl</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>huajikl</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-01-21T08:14:25.669Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>huajikl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>整理</title>
+    <link href="http://example.com/2024/01/21/%E6%95%B4%E7%90%86/"/>
+    <id>http://example.com/2024/01/21/%E6%95%B4%E7%90%86/</id>
+    <published>2024-01-21T07:54:34.000Z</published>
+    <updated>2024-01-21T08:14:25.669Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;图片&quot;&gt;图片&lt;/h2&gt;
+&lt;details open&gt;
+&lt;summary&gt;&lt;span class=&quot;pre-summary&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;壁纸&lt;/strong&gt;&lt;/summary&gt;&lt;ul class=&quot;lvl-1&quot;&gt;
+&lt;li</summary>
+        
+      
+    
+    
+    
+    
+    <category term="资源" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>obsidian推荐</title>
+    <link href="http://example.com/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/"/>
+    <id>http://example.com/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/</id>
+    <published>2024-01-21T07:50:47.000Z</published>
+    <updated>2024-01-21T08:11:47.776Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;主题&quot;&gt;主题&lt;/h2&gt;
+&lt;p&gt;推荐使用&lt;strong&gt;GitHub Theme&lt;/strong&gt;，看着还行可以用&lt;/p&gt;
+&lt;h2 id=&quot;插件&quot;&gt;插件&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;盘古</summary>
+        
+      
+    
+    
+    
+    
+    <category term="obsidian" scheme="http://example.com/tags/obsidian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>alist美化</title>
+    <link href="http://example.com/2024/01/21/alist%E7%BE%8E%E5%8C%96/"/>
+    <id>http://example.com/2024/01/21/alist%E7%BE%8E%E5%8C%96/</id>
+    <published>2024-01-21T07:44:57.000Z</published>
+    <updated>2024-01-21T08:12:48.560Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;**一眼乱写&lt;/p&gt;
+&lt;h2 id=&quot;进设置打开全局设置&quot;&gt;进设置打开全局设置&lt;/h2&gt;
+&lt;p&gt;输入以下代码&lt;/p&gt;
+&lt;h2 id=&quot;头部代码&quot;&gt;头部代码&lt;/h2&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="资源" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="alist" scheme="http://example.com/tags/alist/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏清单</title>
+    <link href="http://example.com/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
+    <id>http://example.com/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
+    <published>2024-01-21T07:21:03.000Z</published>
+    <updated>2024-01-21T08:12:22.574Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+    <category term="资源" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H27V22屏幕设置参数</title>
+    <link href="http://example.com/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"/>
+    <id>http://example.com/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/</id>
+    <published>2024-01-21T07:19:07.000Z</published>
+    <updated>2024-01-21T08:17:10.622Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;出自&lt;a href=&quot;https://tieba.baidu.com/p/8122873554&quot;&gt;贴吧&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;A-卡设置参数&quot;&gt;A 卡设置参数&lt;/h2&gt;
+&lt;p&gt;亮度 60，对比度 60，暗部平衡不需要去动。伽马</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>搭建alist</title>
+    <link href="http://example.com/2024/01/21/%E6%90%AD%E5%BB%BAalist/"/>
+    <id>http://example.com/2024/01/21/%E6%90%AD%E5%BB%BAalist/</id>
+    <published>2024-01-21T07:13:55.000Z</published>
+    <updated>2024-01-21T08:12:24.935Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一眼乱写，如何白嫖非常简单。&lt;/p&gt;
+&lt;h2 id=&quot;准备工作&quot;&gt;准备工作&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.replit.com/&quot;&gt;replit&lt;/a&gt;&lt;br&gt;
+&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="资源" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="alist" scheme="http://example.com/tags/alist/"/>
+    
+  </entry>
+  
+</feed>
