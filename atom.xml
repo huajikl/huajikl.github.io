@@ -6,7 +6,7 @@
   <link href="https://huajikl.github.io/atom.xml" rel="self"/>
   
   <link href="https://huajikl.github.io/"/>
-  <updated>2024-01-21T08:14:25.669Z</updated>
+  <updated>2024-03-23T16:07:53.908Z</updated>
   <id>https://huajikl.github.io/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何安装cuda</title>
+    <link href="https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/"/>
+    <id>https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/</id>
+    <published>2024-02-06T14:34:27.000Z</published>
+    <updated>2024-03-23T16:07:53.908Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;打开控制面板&quot;&gt;打开控制面板&lt;/h2&gt;
+&lt;p&gt;就是打开 NVIDIA 控制面板，然后点击帮助，再点击系统信息。点击组件查看 NVCUDA 64. DLL，然后查看自己能使用什么版本的 cuda，去前面的数字比如什么 11. X 或者 12.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>整理</title>
     <link href="https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/"/>
     <id>https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/</id>
     <published>2024-01-21T07:54:34.000Z</published>
-    <updated>2024-01-21T08:14:25.669Z</updated>
+    <updated>2024-02-17T04:49:02.824Z</updated>
     
     
       
@@ -43,11 +65,11 @@
   </entry>
   
   <entry>
-    <title>obsidian推荐</title>
+    <title>obsidian</title>
     <link href="https://huajikl.github.io/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/"/>
     <id>https://huajikl.github.io/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/</id>
     <published>2024-01-21T07:50:47.000Z</published>
-    <updated>2024-01-21T08:11:47.776Z</updated>
+    <updated>2024-02-17T04:43:11.910Z</updated>
     
     
       
@@ -73,18 +95,19 @@
     <link href="https://huajikl.github.io/2024/01/21/alist%E7%BE%8E%E5%8C%96/"/>
     <id>https://huajikl.github.io/2024/01/21/alist%E7%BE%8E%E5%8C%96/</id>
     <published>2024-01-21T07:44:57.000Z</published>
-    <updated>2024-01-21T08:12:48.560Z</updated>
+    <updated>2024-03-23T16:06:57.481Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;**一眼乱写&lt;/p&gt;
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;p&gt;这只是个美化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一眼乱写&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;进设置打开全局设置&quot;&gt;进设置打开全局设置&lt;/h2&gt;
 &lt;p&gt;输入以下代码&lt;/p&gt;
-&lt;h2 id=&quot;头部代码&quot;&gt;头部代码&lt;/h2&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+&lt;h2</summary>
         
       
     
@@ -102,7 +125,7 @@
     <link href="https://huajikl.github.io/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
     <id>https://huajikl.github.io/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
     <published>2024-01-21T07:21:03.000Z</published>
-    <updated>2024-01-21T08:12:22.574Z</updated>
+    <updated>2024-02-17T04:42:51.262Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
