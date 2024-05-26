@@ -4099,3 +4099,10 @@ pre .javascript .function {
   width: 100%;
   height: 2px;
 }
+.giscus,
+.giscus-frame {
+  width: auto;
+}
+.giscus-frame {
+  width: 100%;
+}

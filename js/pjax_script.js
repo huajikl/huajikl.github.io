@@ -204,7 +204,7 @@ var scrollIntoViewAndWait = (element) => {
     $('body').removeClass('mobile-nav-on');
   });
 
-  (function () {
+  function tocInit() {
     const navItems = getComputedStyle(document.getElementById('sidebar')).display === 'block' ?
       $('#sidebar .sidebar-toc-wrapper li') :
       $('#mobile-nav .sidebar-toc-wrapper li');
@@ -302,5 +302,14 @@ var scrollIntoViewAndWait = (element) => {
     sections.each(function () {
       $(this).length && observer.observe($(this)[0])
     })
-  })();
+  };
+
+  window.addEventListener('hexo-blog-decrypt', tocInit);
+  window.addEventListener('hexo-blog-decrypt', () => {
+    const script = document.createElement('script');
+    script.src = '/js/insert_highlight.js';
+    script.setAttribute('data-pjax', true);
+    document.body.appendChild(script);
+  });
+  tocInit();
 })(jQuery);

@@ -6,7 +6,7 @@
   <link href="https://huajikl.github.io/atom.xml" rel="self"/>
   
   <link href="https://huajikl.github.io/"/>
-  <updated>2024-03-23T16:07:53.908Z</updated>
+  <updated>2024-05-26T14:49:52.663Z</updated>
   <id>https://huajikl.github.io/</id>
   
   <author>
@@ -17,21 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>解决雷曼起源或传奇掉帧</title>
+    <link href="https://huajikl.github.io/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/"/>
+    <id>https://huajikl.github.io/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/</id>
+    <published>2024-04-02T15:40:36.000Z</published>
+    <updated>2024-05-26T14:49:52.663Z</updated>
+    
+    
+    <summary type="html">最近在玩雷曼但是游戏时常掉帧，影响游戏体验，所以寻找解决方法</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>如何安装cuda</title>
     <link href="https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/"/>
     <id>https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/</id>
     <published>2024-02-06T14:34:27.000Z</published>
-    <updated>2024-03-23T16:07:53.908Z</updated>
+    <updated>2024-05-26T14:49:37.161Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;打开控制面板&quot;&gt;打开控制面板&lt;/h2&gt;
-&lt;p&gt;就是打开 NVIDIA 控制面板，然后点击帮助，再点击系统信息。点击组件查看 NVCUDA 64. DLL，然后查看自己能使用什么版本的 cuda，去前面的数字比如什么 11. X 或者 12.</summary>
-        
-      
+    <summary type="html">关于cuda的安装</summary>
     
     
     
@@ -43,78 +51,13 @@
     <link href="https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/"/>
     <id>https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/</id>
     <published>2024-01-21T07:54:34.000Z</published>
-    <updated>2024-02-17T04:49:02.824Z</updated>
+    <updated>2024-05-26T15:06:31.256Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;图片&quot;&gt;图片&lt;/h2&gt;
-&lt;details open&gt;
-&lt;summary&gt;&lt;span class=&quot;pre-summary&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;壁纸&lt;/strong&gt;&lt;/summary&gt;&lt;ul class=&quot;lvl-1&quot;&gt;
-&lt;li</summary>
-        
-      
+    <summary type="html">当收藏夹了</summary>
     
     
     
-    
-    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>obsidian</title>
-    <link href="https://huajikl.github.io/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/"/>
-    <id>https://huajikl.github.io/2024/01/21/obsidian%E6%8E%A8%E8%8D%90/</id>
-    <published>2024-01-21T07:50:47.000Z</published>
-    <updated>2024-02-17T04:43:11.910Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;主题&quot;&gt;主题&lt;/h2&gt;
-&lt;p&gt;推荐使用&lt;strong&gt;GitHub Theme&lt;/strong&gt;，看着还行可以用&lt;/p&gt;
-&lt;h2 id=&quot;插件&quot;&gt;插件&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;盘古</summary>
-        
-      
-    
-    
-    
-    
-    <category term="obsidian" scheme="https://huajikl.github.io/tags/obsidian/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>alist美化</title>
-    <link href="https://huajikl.github.io/2024/01/21/alist%E7%BE%8E%E5%8C%96/"/>
-    <id>https://huajikl.github.io/2024/01/21/alist%E7%BE%8E%E5%8C%96/</id>
-    <published>2024-01-21T07:44:57.000Z</published>
-    <updated>2024-03-23T16:06:57.481Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;p&gt;这只是个美化&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一眼乱写&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;进设置打开全局设置&quot;&gt;进设置打开全局设置&lt;/h2&gt;
-&lt;p&gt;输入以下代码&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    
-    <category term="alist" scheme="https://huajikl.github.io/tags/alist/"/>
     
     <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
     
@@ -142,49 +85,13 @@
     <link href="https://huajikl.github.io/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"/>
     <id>https://huajikl.github.io/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/</id>
     <published>2024-01-21T07:19:07.000Z</published>
-    <updated>2024-01-21T08:17:10.622Z</updated>
+    <updated>2024-05-26T14:49:00.986Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;出自&lt;a href=&quot;https://tieba.baidu.com/p/8122873554&quot;&gt;贴吧&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;A-卡设置参数&quot;&gt;A 卡设置参数&lt;/h2&gt;
-&lt;p&gt;亮度 60，对比度 60，暗部平衡不需要去动。伽马</summary>
-        
-      
+    <summary type="html">只是方便我自己观看</summary>
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>搭建alist</title>
-    <link href="https://huajikl.github.io/2024/01/21/%E6%90%AD%E5%BB%BAalist/"/>
-    <id>https://huajikl.github.io/2024/01/21/%E6%90%AD%E5%BB%BAalist/</id>
-    <published>2024-01-21T07:13:55.000Z</published>
-    <updated>2024-01-21T08:12:24.935Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;一眼乱写，如何白嫖非常简单。&lt;/p&gt;
-&lt;h2 id=&quot;准备工作&quot;&gt;准备工作&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.replit.com/&quot;&gt;replit&lt;/a&gt;&lt;br&gt;
-&lt;a</summary>
-        
-      
-    
-    
-    
-    
-    <category term="alist" scheme="https://huajikl.github.io/tags/alist/"/>
-    
-    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
