@@ -1,6 +1,6 @@
 
   <!DOCTYPE html>
-  <html lang="zh-CN"  data-theme="dark" >
+  <html lang="zh-CN"  >
   <head>
   <meta charset="utf-8">
   
@@ -8,17 +8,20 @@
   
 
   
+
+  
+  <script>window.icon_font = '4552607_09mhdxci6yrk';window.clipboard_tips = {"success":"复制成功(*^▽^*)","fail":"复制失败 (ﾟ⊿ﾟ)ﾂ"};</script>
+  
+  
   <title>
     
     huajikl
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CUbuntu%20Mono:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext" as="style" onload="this.onload&#x3D;null;this.rel&#x3D;&#39;stylesheet&#39;">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Mulish:400,400italic,700,700italic%7CNoto%20Serif%20SC:400,400italic,700,700italic%7CUbuntu%20Mono:400,400italic,700,700italic&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:400,400italic,700,700italic%7CNoto%20Serif%20SC:400,400italic,700,700italic%7CUbuntu%20Mono:400,400italic,700,700italic&display=swap" media="print" onload="this.media&#x3D;&#39;all&#39;">
   
-<link rel="stylesheet" href="https://npm.webcache.cn/@fortawesome/fontawesome-free@6.5.1/css/regular.min.css">
-<link rel="stylesheet" href="https://npm.webcache.cn/@fortawesome/fontawesome-free@6.5.1/css/solid.min.css">
-
-  <link rel="preload" href="https://npm.webcache.cn/@fortawesome/fontawesome-free@6.5.1/css/brands.min.css" as="style" onload="this.onload&#x3D;null;this.rel&#x3D;&#39;stylesheet&#39;"><link rel="preload" href="https://npm.webcache.cn/@fortawesome/fontawesome-free@6.5.1/css/v5-font-face.min.css" as="style" onload="this.onload&#x3D;null;this.rel&#x3D;&#39;stylesheet&#39;"><link rel="preload" href="https://npm.webcache.cn/@fortawesome/fontawesome-free@6.5.1/css/v4-font-face.min.css" as="style" onload="this.onload&#x3D;null;this.rel&#x3D;&#39;stylesheet&#39;">
+    <link rel="preload" href="//at.alicdn.com/t/c/font_4552607_09mhdxci6yrk.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  
   
 <link rel="stylesheet" href="/css/loader.css">
 
@@ -38,14 +41,11 @@
     <link rel="shortcut icon" href="/images/favicon.ico">
   
   
-  
 <link rel="stylesheet" href="/css/style.css">
 
   
-    
-<link rel="stylesheet" href="https://npm.webcache.cn/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://npm.webcache.cn/photoswipe@5.4.4/dist/photoswipe.css">
 
-  
   
   
   
@@ -74,6 +74,8 @@
 
   <body>
     
+<div id="copy-tooltip" style="pointer-events: none; opacity: 0; transition: all 0.2s ease; position: fixed;top: 50%;left: 50%;z-index: 999;transform: translate(-50%, -50%);color: white;background: rgba(0, 0, 0, 0.5);padding: 10px 15px;border-radius: 10px;">
+</div>
 
     <div id="container">
       <div id="wrap">
@@ -114,7 +116,9 @@
 </div>
 <header id="header">
   
-    <img fetchpriority="high" src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" alt="">
+    
+      <img fetchpriority="high" src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" alt="">
+    
   
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
@@ -147,7 +151,7 @@
   
   <div class="post-wrap-left wow fadeInUp">
     
-      <a class="post-link" href="/2024/01/21/%E6%95%B4%E7%90%86/"></a>
+      <a class="post-link" href="/2024/01/21/%E6%95%B4%E7%90%86/" aria-label="整理"></a>
     
     
       <div class="post-sticky">置顶</div>
@@ -156,24 +160,20 @@
       
         
         
-          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" data-sizes="auto" alt="整理" class="lazyload">
+          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" data-sizes="auto" alt="整理" class="lazyload">
         
       
     </div>
     <div class="post-info">
       <div class="post-meta">
-        <a><span class="icon-calendar"></span>2024-01-21</a>
-        
-          <a><span class="icon-pencil"></span>599 字</a>
-        
-        
-          <a><span class="icon-clock"></span>2 分钟</a>
-        
+        <span><span class="icon-calendar"></span>2024-01-21</span>
+        <span><span class="icon-pencil"></span>6 字</span>
+        <span><span class="icon-clock"></span>1 分钟</span>
       </div>
       <h2 class="post-title">整理</h2>
       <article class="post-article">
         
-          当收藏夹
+          Here's something encrypted, password is required to continue reading.
         
       </article>
     </div>
@@ -184,25 +184,21 @@
   
   <div class="post-wrap-right wow fadeInUp">
     
-    <a class="post-link" href="/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/"></a>
+    <a class="post-link" href="/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/" aria-label="解决雷曼起源或传奇掉帧"></a>
     
     <div class="post-cover-right">
       
         
         
-          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" data-sizes="auto" alt="解决雷曼起源或传奇掉帧" class="lazyload">
+          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" data-sizes="auto" alt="解决雷曼起源或传奇掉帧" class="lazyload">
         
       
     </div>
     <div class="post-info">
       <div class="post-meta">
-        <a><span class="icon-calendar"></span>2024-04-02</a>
-        
-          <a><span class="icon-pencil"></span>56 字</a>
-        
-        
-          <a><span class="icon-clock"></span>1 分钟</a>
-        
+        <span><span class="icon-calendar"></span>2024-04-02</span>
+        <span><span class="icon-pencil"></span>56 字</span>
+        <span><span class="icon-clock"></span>1 分钟</span>
       </div>
       <h2 class="post-title">解决雷曼起源或传奇掉帧</h2>
       <article class="post-article">
@@ -218,26 +214,22 @@
   
   <div class="post-wrap-left wow fadeInUp">
     
-      <a class="post-link" href="/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/"></a>
+      <a class="post-link" href="/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/" aria-label="如何安装cuda"></a>
     
     
     <div class="post-cover-left">
       
         
         
-          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" data-sizes="auto" alt="如何安装cuda" class="lazyload">
+          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" data-sizes="auto" alt="如何安装cuda" class="lazyload">
         
       
     </div>
     <div class="post-info">
       <div class="post-meta">
-        <a><span class="icon-calendar"></span>2024-02-06</a>
-        
-          <a><span class="icon-pencil"></span>163 字</a>
-        
-        
-          <a><span class="icon-clock"></span>1 分钟</a>
-        
+        <span><span class="icon-calendar"></span>2024-02-06</span>
+        <span><span class="icon-pencil"></span>163 字</span>
+        <span><span class="icon-clock"></span>1 分钟</span>
       </div>
       <h2 class="post-title">如何安装cuda</h2>
       <article class="post-article">
@@ -253,25 +245,21 @@
   
   <div class="post-wrap-right wow fadeInUp">
     
-    <a class="post-link" href="/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"></a>
+    <a class="post-link" href="/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/" aria-label="游戏清单"></a>
     
     <div class="post-cover-right">
       
         
         
-          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" data-sizes="auto" alt="游戏清单" class="lazyload">
+          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" data-sizes="auto" alt="游戏清单" class="lazyload">
         
       
     </div>
     <div class="post-info">
       <div class="post-meta">
-        <a><span class="icon-calendar"></span>2024-01-21</a>
-        
-          <a><span class="icon-pencil"></span>6 字</a>
-        
-        
-          <a><span class="icon-clock"></span>1 分钟</a>
-        
+        <span><span class="icon-calendar"></span>2024-01-21</span>
+        <span><span class="icon-pencil"></span>6 字</span>
+        <span><span class="icon-clock"></span>1 分钟</span>
       </div>
       <h2 class="post-title">游戏清单</h2>
       <article class="post-article">
@@ -287,26 +275,22 @@
   
   <div class="post-wrap-left wow fadeInUp">
     
-      <a class="post-link" href="/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"></a>
+      <a class="post-link" href="/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/" aria-label="H27V22屏幕设置参数"></a>
     
     
     <div class="post-cover-left">
       
         
         
-          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.jpg" data-sizes="auto" alt="H27V22屏幕设置参数" class="lazyload">
+          <img data-src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Fbanner.webp" data-sizes="auto" alt="H27V22屏幕设置参数" class="lazyload">
         
       
     </div>
     <div class="post-info">
       <div class="post-meta">
-        <a><span class="icon-calendar"></span>2024-01-21</a>
-        
-          <a><span class="icon-pencil"></span>319 字</a>
-        
-        
-          <a><span class="icon-clock"></span>1 分钟</a>
-        
+        <span><span class="icon-calendar"></span>2024-01-21</span>
+        <span><span class="icon-pencil"></span>319 字</span>
+        <span><span class="icon-clock"></span>1 分钟</span>
       </div>
       <h2 class="post-title">H27V22屏幕设置参数</h2>
       <article class="post-article">
@@ -352,25 +336,25 @@
 <div class="sidebar-menu">
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/"></a>
+      <a class="sidebar-menu-link-dummy" href="/" aria-label="首页"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">首页</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/archives"></a>
+      <a class="sidebar-menu-link-dummy" href="/archives" aria-label="归档"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">归档</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/about"></a>
+      <a class="sidebar-menu-link-dummy" href="/about" aria-label="关于"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">关于</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/friend"></a>
+      <a class="sidebar-menu-link-dummy" href="/friend" aria-label="友链"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">友链</div>
     </div>
@@ -408,10 +392,10 @@
       
         <div>
           <span class="icon-brush"></span>
-          1.1k
+          550
           &nbsp;|&nbsp;
           <span class="icon-coffee"></span>
-          00:06
+          00:05
         </div>
       
       
@@ -428,7 +412,7 @@
 </footer>
 
         <div class="sidebar-top">
-          <img src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Ftaichi.png&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Ftaichi.png" height="50" width="50" />
+          <img src="https://wsrv.nl/?url=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Ftaichi.png&default=https%3A%2F%2Fhuajikl.github.io%2Fimages%2Ftaichi.png" height="50" width="50" alt="backtop" />
           <div class="arrow-up"></div>
         </div>
         <div id="mask"></div>
@@ -461,25 +445,25 @@
 <div class="sidebar-menu">
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/"></a>
+      <a class="sidebar-menu-link-dummy" href="/" aria-label="首页"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">首页</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/archives"></a>
+      <a class="sidebar-menu-link-dummy" href="/archives" aria-label="归档"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">归档</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/about"></a>
+      <a class="sidebar-menu-link-dummy" href="/about" aria-label="关于"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">关于</div>
     </div>
   
     <div class="sidebar-menu-link-wrap">
-      <a class="sidebar-menu-link-dummy" href="/friend"></a>
+      <a class="sidebar-menu-link-dummy" href="/friend" aria-label="友链"></a>
       <span class="sidebar-menu-icon"></span>
       <div class="sidebar-menu-link">友链</div>
     </div>
@@ -507,9 +491,6 @@
       </div>
     </div>
     
-<script src="https://npm.webcache.cn/jquery@3.7.1/dist/jquery.min.js"></script>
-
-
 <script src="https://npm.webcache.cn/lazysizes@5.3.2/lazysizes.min.js"></script>
 
 
@@ -517,23 +498,40 @@
 
 
 
-  
-<script src="https://npm.webcache.cn/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" defer></script>
-
-
-
-  
-<script src="https://npm.webcache.cn/busuanzi@2.3.0/bsz.pure.mini.js" async></script>
-
-
-
+<script src="/js/script.js"></script>
 
 
 
 <script src="/js/pjax_script.js" data-pjax></script>
 
 
-
+<script type="module" data-pjax>
+  import PhotoSwipeLightbox from "https://npm.webcache.cn/photoswipe@5.4.4/dist/photoswipe-lightbox.esm.js";
+  
+  const pswp = () => {
+    if (_$$('.article-entry a.article-gallery-item').length > 0) {
+      new PhotoSwipeLightbox({
+        gallery: '.article-entry',
+        children: 'a.article-gallery-item',
+        pswpModule: () => import("https://npm.webcache.cn/photoswipe@5.4.4/dist/photoswipe.esm.js")
+      }).init();
+    }
+    if(_$$('.article-gallery a.article-gallery-item').length > 0) {
+      new PhotoSwipeLightbox({
+        gallery: '.article-gallery',
+        children: 'a.article-gallery-item',
+        pswpModule: () => import("https://npm.webcache.cn/photoswipe@5.4.4/dist/photoswipe.esm.js")
+      }).init();
+    }
+    window.lightboxStatus = 'done';
+    window.removeEventListener('lightbox:ready', pswp);
+  }
+  if(window.lightboxStatus === 'ready') {
+    pswp()
+  } else {
+    window.addEventListener('lightbox:ready', pswp);
+  }
+</script>
 
 
 
@@ -566,9 +564,6 @@
   
 <script src="/js/generator_search.js"></script>
 
-  
-<script src="https://npm.webcache.cn/instantsearch.js@4.56.1/dist/instantsearch.production.min.js"></script>
-
 
 
 
@@ -578,7 +573,7 @@
 <script src="https://npm.webcache.cn/mouse-firework@0.0.4/dist/index.umd.js"></script>
 
   <script>
-    firework(JSON.parse('{"excludeElements":["a"],"particles":[{"shape":"circle","move":["emit"],"easing":"easeOutExpo","colors":["#ff5252","#ff7c7c","#ffafaf","#ffd0d0"],"number":20,"duration":[1200,1800],"shapeOptions":{"radius":[16,32],"alpha":[0.3,0.5]}},{"shape":"circle","move":["diffuse"],"easing":"easeOutExpo","colors":["#ff0000"],"number":1,"duration":[1200,1800],"shapeOptions":{"radius":20,"alpha":[0.2,0.5],"lineWidth":6}}]}'))
+    firework(JSON.parse('{"excludeElements":["a","button"],"particles":[{"shape":"circle","move":["emit"],"easing":"easeOutExpo","colors":["#ff5252","#ff7c7c","#ffafaf","#ffd0d0"],"number":20,"duration":[1200,1800],"shapeOptions":{"radius":[16,32],"alpha":[0.3,0.5]}},{"shape":"circle","move":["diffuse"],"easing":"easeOutExpo","colors":["#ff0000"],"number":1,"duration":[1200,1800],"shapeOptions":{"radius":20,"alpha":[0.2,0.5],"lineWidth":6}}]}'))
   </script>
 
 
@@ -586,9 +581,11 @@
 
 
 
-
-<script src="/js/script.js"></script>
-
+<div id="lazy-script">
+  <div>
+    
+  </div>
+</div>
 
 
   <script>
@@ -600,9 +597,14 @@
   \/_/ /_/   \/_____/   \/_/   \/_/  \/_/   \/_____/ 
                                                   
 `,'color: #ff5252;')
-    console.log('%c Theme.Reimu v' + '0.1.2' + ' %c https://github.com/D-Sketon/hexo-theme-reimu ', 'color: white; background: #ff5252; padding:5px 0;', 'padding:4px;border:1px solid #ff5252;')
+    console.log('%c Theme.Reimu v' + '0.2.0' + ' %c https://github.com/D-Sketon/hexo-theme-reimu ', 'color: white; background: #ff5252; padding:5px 0;', 'padding:4px;border:1px solid #ff5252;')
   </script>
   
+
+
+  
+<script src="https://npm.webcache.cn/busuanzi@2.3.0/bsz.pure.mini.js" async></script>
+
 
   <!-- hexo injector body_end start -->
 <script src="/js/insert_highlight.js" data-pjax></script>
